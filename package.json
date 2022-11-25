@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/Diegoson/AMAROK-MD#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/baileys": "github:hostinger-bot/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "discord-mongoose-economy": "^1.2.0",
     "acrcloud": "^1.4.0",
